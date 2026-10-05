@@ -53,7 +53,7 @@ I study **SQL**, **Statistic**, and **Data Analysis Tools**.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kauaserafimshow_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kauaserafim&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauaserafim&layout=compact&theme=tokyonight" />
 </p>
 
