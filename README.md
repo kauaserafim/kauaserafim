@@ -61,6 +61,6 @@ I study **SQL**, **Statistic**, and **Data Analysis Tools**.
 
 ## 🚀 Philosophy
 
-> 99% GOD
-> 1% LOGIC
+> 99% God
+> 1% Logic
 
