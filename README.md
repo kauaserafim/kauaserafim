@@ -61,6 +61,6 @@ I study **SQL**, **Statistic**, and **Data Analysis Tools**.
 
 ## 🚀 Philosophy
 
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+> 99% GOD
+> 1% LOGIC
 
