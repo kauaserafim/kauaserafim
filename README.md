@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kauã Serafim
+# Hi! I'm Kauã Serafim
 
 🚀 **Artificial Intelligence Student**  
 🇧🇷 Brazil
